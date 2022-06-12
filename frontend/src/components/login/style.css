@@ -61,11 +61,11 @@
 
 
   ::-webkit-input-placeholder .input1 {
-    /* Chrome/Opera/Safari */
+    
     color: #c5ecfd;
   }
   ::-moz-placeholder.input2{
-    /* Firefox 19+ */
+    
     color: #c5ecfd;
   }
 
